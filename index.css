@@ -1,0 +1,15 @@
+body{
+    background-color: gray
+}
+
+.color ul a{
+    color: rgb(244, 244, 247);
+}
+
+#Selecion ul li{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
